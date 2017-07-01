@@ -8,6 +8,7 @@ public class Controller {
 		for(int a : array)
 		{
 			System.out.print("Workspace branch");
+			System.out.println(a);
 
 		}
 	}
